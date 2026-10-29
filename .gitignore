@@ -1,0 +1,13 @@
+# Thesis report (kept local)
+*.pdf
+
+# Data and generated artefacts
+*.npy
+*.npz
+*.mp4
+data/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
